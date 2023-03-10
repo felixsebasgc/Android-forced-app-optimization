@@ -5,3 +5,4 @@ The menu has the options:
 2. All packages optimization speed-profile
 3. All packages full optimization
 4. Clearing profile data for all packages
+In the folder "SH" there are .sh files that can be run on android so you can optimize your device on itself, to run them you need root permission.
