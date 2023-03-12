@@ -7,4 +7,8 @@ The menu has the options:
 4. Clearing profile data for all packages
 
 
-In the folder "android-device" there are .sh files that can be run on android so you can optimize your device on itself, to run them you need root permission.
+In the folder "android-device" there are .sh files that can be run on android so you can optimize your device on itself, to run them you need root permission. The files are:
+1. clean.sh -  clears profile data for all packages.
+2. full.sh - does full optimization for all packages.
+3. speed.sh - does optimization based on speed-profile for all packages.
+
