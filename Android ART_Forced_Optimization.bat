@@ -84,7 +84,7 @@ cls
 	echo You selected "Clearing profile data for all packages"
 	echo Please wait, it will take a few minutes ...
 	echo -----------------------------------------------------
-adb shell cmd package compile -m speed -f -a
+adb shell cmd package compile --reset -a
 	echo Press any key to return to menu...
 	pause>nul 
 	goto menu
